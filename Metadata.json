@@ -1,0 +1,20 @@
+{
+    "Author": "Matthew Dowst",
+    "ContentSize": 2193,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/backup-azure-automation-modules/master/Backup-AAModules.ps1",
+    "DownloadCount": 771,
+    "Id": "Backup-Custom-Azure-42950766",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 212,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-10-10T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This runbook can be used to backup all your custom Azure Automation modules to an Azure Storage Account. The runbook will connect to your Azure Storage Account, create a container, and then upload all the files and folders from your custom modules.",
+    "Title": "Backup Azure Automation Modules",
+    "UpdatedDate": "2016-10-10T00:00:00",
+    "Url": "https://github.com/azureautomation/backup-azure-automation-modules",
+    "UserTags": "backup, Runbook, Azure Automation"
+}
